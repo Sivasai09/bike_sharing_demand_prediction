@@ -46,8 +46,12 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+
 ## 🌐 Live Application
-The Streamlit application allows users to enter the required details and predict bike rental demand.
+
+Try the Bike Rental Demand Prediction application here:
+
+🔗 [Open Bike Rental Prediction App](https://sivasai09-bike-sharing-demand-prediction-app-f5bvgr.streamlit.app/)
 
 ## 💡 Key Features
 - User-friendly Streamlit interface.
